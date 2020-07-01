@@ -14,7 +14,7 @@
             <sch:name>AppModelId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>AppModelDefinition</sch:relatedObjectType>
+            <sch:relatedObjectType>AggrModelDefinition</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>
