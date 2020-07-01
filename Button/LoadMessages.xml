@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://Baf.com/schemas" name="LoadMessages">
+    <sch:seqIndex>9</sch:seqIndex>
+    <sch:name>LoadMessages</sch:name>
+    <sch:label>Load Messages</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>LoadMessages</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo>Collection</sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">LoadMessages</sch:bmfTransaction>
+</sch:Button>
