@@ -183,13 +183,13 @@
     <sch:buttons>
         <sch:BmfPageButton>
             <sch:seqNo>1200</sch:seqNo>
-            <sch:buttonName>ChangePassword</sch:buttonName>
+            <sch:buttonName>ResetPassword</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
             <sch:description></sch:description>
             <sch:showButton>true</sch:showButton>
             <sch:eventHandler></sch:eventHandler>
-            <sch:bmfButton isRef="true">ChangePassword</sch:bmfButton>
+            <sch:bmfButton isRef="true">ResetPassword</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
 </sch:PageDefinition>
